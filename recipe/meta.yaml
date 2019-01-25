@@ -14,8 +14,9 @@ source:
 
 build:
   noarch: generic
+  noarch: generic
   merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
