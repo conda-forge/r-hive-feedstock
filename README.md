@@ -5,7 +5,7 @@ Home: https://CRAN.R-project.org/package=hive
 
 Package license: GPL-3
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Hadoop InteractiVE facilitates distributed  computing via the MapReduce paradigm through R and Hadoop. An easy to use  interface to Hadoop, the Hadoop Distributed File System (HDFS),  and Hadoop Streaming is provided.
 
