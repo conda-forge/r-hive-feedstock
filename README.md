@@ -1,11 +1,11 @@
-About r-hive
-============
+About r-hive-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hive-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=hive
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hive-feedstock/blob/main/LICENSE.txt)
 
 Summary: Hadoop InteractiVE facilitates distributed  computing via the MapReduce paradigm through R and Hadoop. An easy to use  interface to Hadoop, the Hadoop Distributed File System (HDFS),  and Hadoop Streaming is provided.
 
